@@ -1,3 +1,6 @@
+## 20200521
+* 修复openclash repo
+
 ## 20200515
 * Kernel 5.4.40
 * 支持 RTL8812AU
